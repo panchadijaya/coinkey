@@ -1,5 +1,5 @@
 var assert = require('assert')
-var coininfo = require('coininfo')
+var coininfo = require('mubdiinfo')
 var secureRandom = require('secure-random')
 var CoinKey = require('../')
 var fixtures = require('./fixtures/coinkey')
