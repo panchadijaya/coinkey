@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "mubdiinfo": "5.3.1",
+    "mubdiinfo": "^5.3.1",
     "coveralls": "^2.10.0",
     "istanbul": "^0.2.10",
     "mocha": "*",
